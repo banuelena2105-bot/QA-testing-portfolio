@@ -18,3 +18,4 @@ All tests passed successfully. API returned valid and structured data.
 
 ## Evidence
 ![API Test](postman_test.png)
+![API Test](postman_test_users.png)
