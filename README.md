@@ -16,11 +16,12 @@ Tested functionalities:
 - Python & Selenium (basic automation)
 
 ##  Project Structure
-- Test Cases – detailed test scenarios
-- Bug Reports – documented issues
-- Test Plan – testing strategy
-- API Testing – Postman requests
-- Automation – basic scripts
+
+- [Test Cases](./Test-Cases/)
+- [Bug Reports](./Bug-Reports/)
+- [Test Plan](./Test-Plan/)
+- [API Testing](./API-Testing/)
+- [Automation](./Automation/)
 
 ##  Skills Demonstrated
 - Test case design
